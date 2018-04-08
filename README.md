@@ -1,13 +1,13 @@
 # Fillit
 42 Project Fillit
 
-To install:
+# To install:
 
 git clone https://github.com/thomkim/fillit.git
 
 make
 
 
-To Execute:
+# To Execute:
 
 Usage: ./fillit [file]
